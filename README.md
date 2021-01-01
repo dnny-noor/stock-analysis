@@ -7,14 +7,16 @@ The project was to evaluate the yearly return of a group of stocks using Excel V
 ## Results
 ### 2017 Analysis
 In 2017, the listed stocks all had positive returns except for one stock, TERP. The total daily volume for each stock were well over into the millions, however, this does not give enough information to make an inform decision. This is why analyzing more than one year will give more in depth vision of the how stocks will perform and an analysis on 2018 stocks was done.
-![stocksAnalysis2017.png](/Resources/stocksAnalysis2017.png)
+![stocksAnalysis2017.png](/Resources/stocksAnalysis2017.PNG)
 
 ### 2018 Analysis
 In 2018, the listed stocks return less value from 2017 with the exception of two stocks, ENPH and RUN. Both stocks ended the year with over 80 percent return. When comparing the total daily volume, ENPH more than double and RUN nearly doubled the amount from the prior year. This analysis gives the impression that ENPH and RUN stock are fairly stable in this climate and would be an optimal investment.
-![stocksAnalysis2018.png](/Resources/stocksAnalysis2018.png)
+![stocksAnalysis2018.png](/Resources/stocksAnalysis2018.PNG)
 
 ### Refactoring
 Code runtimes were improved from 0.59 to 0.15 seconds for 2017 and 0.08 seconds for 2018. This will definitely be beneficial for the user when analyzing larger amounts of stocks.
+![VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 - *What are the advantages or disadvantages of refactoring code?*
